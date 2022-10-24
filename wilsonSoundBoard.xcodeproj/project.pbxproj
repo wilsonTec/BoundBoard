@@ -14,6 +14,7 @@
 		58EF541F2907140D00567FAA /* wilsonSoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 58EF541D2907140D00567FAA /* wilsonSoundBoard.xcdatamodeld */; };
 		58EF54212907140F00567FAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58EF54202907140F00567FAA /* Assets.xcassets */; };
 		58EF54242907140F00567FAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58EF54222907140F00567FAA /* LaunchScreen.storyboard */; };
+		58EF542C290720F400567FAA /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58EF542B290720F400567FAA /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		58EF54202907140F00567FAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58EF54232907140F00567FAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58EF54252907140F00567FAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58EF542B290720F400567FAA /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				58EF54162907140D00567FAA /* SceneDelegate.swift */,
 				58EF54182907140D00567FAA /* ViewController.swift */,
 				58EF541A2907140D00567FAA /* Main.storyboard */,
+				58EF542B290720F400567FAA /* SoundViewController.swift */,
 				58EF54202907140F00567FAA /* Assets.xcassets */,
 				58EF54222907140F00567FAA /* LaunchScreen.storyboard */,
 				58EF54252907140F00567FAA /* Info.plist */,
@@ -145,6 +148,7 @@
 				58EF54152907140D00567FAA /* AppDelegate.swift in Sources */,
 				58EF541F2907140D00567FAA /* wilsonSoundBoard.xcdatamodeld in Sources */,
 				58EF54172907140D00567FAA /* SceneDelegate.swift in Sources */,
+				58EF542C290720F400567FAA /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
